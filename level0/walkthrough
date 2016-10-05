@@ -1,0 +1,6 @@
+./level0 -> segfault
+gdb ./level0 -> segfault -> bt -> atoi failed
+on comprend que il faut un int en param
+ca retourne no
+on creer un shell poiur bruteforce
+wow, ca fonctionne
