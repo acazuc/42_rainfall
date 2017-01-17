@@ -4,3 +4,5 @@ on comprend que il faut un int en param
 ca retourne no
 on creer un shell poiur bruteforce
 wow, ca fonctionne
+
+(en fait, si on objdump -d -M intel level0 | grep -A 24 \<main\>, on voit qu'il fait  un cmp rax, 0x1a7)
